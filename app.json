@@ -1,0 +1,19 @@
+{
+  "name": "Reuploader",
+  "description": "URL reuploader.",
+  "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
+  "keywords": ["url", "remote", "Reuploader"],
+  "env": {
+     "CONFIG_FILE_IN_URL": {
+      "description": "Please Paste your rclone.conf file in URL.Use https://gist.github.com \r\n |.See Readme." ,
+      "value": "https://gist.githubusercontent/.../raw/.../rclone.conf"
+                  }
+
+
+          },
+
+
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
